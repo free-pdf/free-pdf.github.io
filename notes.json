@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "Maharashtra-board-class-1-Maths-Textbook",
+        "category": "math",
+        "pdfPath": "notes/Maharashtra-board-class-1-Maths-Textbook.pdf",
+        "description": "This is a Maharashtra board class 1 maths textbook.",
+        "author": null
+    },
+    {
+        "id": "2",
+        "title": "Maharashtra-board-class-2-Maths-Textbook",
+        "category": "math",
+        "pdfPath": "notes/Maharashtra-board-class-2-Maths-Textbook.pdf",
+        "description": "This is a Maharashtra board class 2 maths textbook.",
+        "author": null
+    }
+]

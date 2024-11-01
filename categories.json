@@ -1,0 +1,17 @@
+[
+    {
+        "id": "math",
+        "header": "Mathematics",
+        "description": "Explore the fascinating world of numbers, equations, and mathematical theories."
+    },
+    {
+        "id": "science",
+        "header": "Science",
+        "description": "Delve into the realms of biology, chemistry, physics, and the wonders of the universe."
+    },
+    {
+        "id": "history",
+        "header": "History",
+        "description": "Uncover the events, people, and places that shaped our world throughout the ages."
+    }
+]
