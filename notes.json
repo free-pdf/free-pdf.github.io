@@ -5,7 +5,7 @@
         "category": "math",
         "pdfPath": "notes/Maharashtra-board-class-1-Maths-Textbook.pdf",
         "description": "This is a Maharashtra board class 1 maths textbook.",
-        "author": null
+        "author": "Not available"
     },
     {
         "id": "2",
@@ -13,6 +13,6 @@
         "category": "math",
         "pdfPath": "notes/Maharashtra-board-class-2-Maths-Textbook.pdf",
         "description": "This is a Maharashtra board class 2 maths textbook.",
-        "author": null
+        "author": "Not available"
     }
 ]
